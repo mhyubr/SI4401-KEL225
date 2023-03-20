@@ -1,0 +1,4 @@
+Sebagai Telutizen, saya ingin dapat 
+melakukan logout dari aplikasi agar 
+saya bisa keluar dari akun saya dan 
+mencegah akses tidak sah
