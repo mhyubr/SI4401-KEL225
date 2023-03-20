@@ -1,0 +1,5 @@
+Sebagai Telutizen, saya ingin dapat
+melihat daftar UKM yang terdaftar
+di dalam sistem agar saya dapat
+memilih UKM yang ingin saya ikuti
+atau ingin saya daftarkan.
