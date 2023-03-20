@@ -1,4 +1,4 @@
-Sebagai Telutizen, saya ingin dapat 
+.Sebagai Telutizen, saya ingin dapat 
 mendaftar sebagai anggota UKM agar saya dapat 
 memanfaatkan fitur-fitur yang disediakan oleh UKM dan 
 dapat mengikuti kegiatan-kegiatan yang diadakan oleh UKM tersebut.
