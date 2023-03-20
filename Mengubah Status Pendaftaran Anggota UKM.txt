@@ -1,0 +1,4 @@
+Sebagai Admin UKM, saya ingin dapat mengubah
+status pendaftaran anggota UKM agar
+saya dapat dengan mudah memonitor
+peserta yang sudah diterima dan yang belum diterima
